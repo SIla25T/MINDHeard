@@ -12,7 +12,7 @@ sociales équines.
 
 1. Clonez ce dépôt :
 ```bash
-git clone ... 
+git clone ... https://github.com/SIla25T/MINDHeard.git
 ```
 
 
